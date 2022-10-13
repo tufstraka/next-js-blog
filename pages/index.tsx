@@ -42,7 +42,7 @@ export default function Home({
         <small className={utilStyles.headingMd}>
           <p> <strong>My Github Commits</strong> </p>
         </small>
-        <img src="http://ghchart.rshah.org/kadimakeith" alt="Kadima's Github chart" />
+        <img src="http://ghchart.rshah.org/#F0F8FF/kadimakeith" alt="Kadima's Github chart" />
       </section>
     </Layout>
   )
