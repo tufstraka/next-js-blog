@@ -42,7 +42,7 @@ export default function Home({
             </li>
           ))}
         </ul>
-        <small className={utilStyles.lightText}>
+        <small className={utilStyles.headingMd}>
           <p>My Github Commits</p>
         </small>
         <img src="http://ghchart.rshah.org/kadimakeith" alt="Kadima's Github chart" />
