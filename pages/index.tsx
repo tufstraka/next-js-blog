@@ -17,11 +17,8 @@ export default function Home({
 }) {
   return (
     <Layout home>
-      <Head>
-        <title>{siteTitle}</title>
-      </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey there, I'm <strong>Keith</strong>. I'm a freelance web developer.</p>
+        <p>Hey there, I'm <strong>Keith Kadima</strong>. I'm a freelance web developer.</p>
         <p>
           I build fast, responsive and well designed web applications. Contact me via{' '}
           <a href="https://linkedin.com/in/kadimakeith">LinkedIn</a>.
