@@ -42,6 +42,10 @@ export default function Home({
             </li>
           ))}
         </ul>
+        <small className={utilStyles.lightText}>
+          <p>My Github Commits</p>
+        </small>
+        <img src="http://ghchart.rshah.org/kadimakeith" alt="Kadima's Github chart" />
       </section>
     </Layout>
   )
