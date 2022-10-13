@@ -7,7 +7,7 @@ body {
   line-height: 1.6;
   font-size: 18px;
   background-color: #FFFFFF;
-  background-image: url(http://www.transparenttextures.com/patterns/leather.png);
+  background-image: url("../public/images/leather.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
