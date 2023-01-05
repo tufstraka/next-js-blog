@@ -1,6 +1,6 @@
 ---
-title: 'The Art of Writing Amazing API's'
-date: '2022-12-28'
+title: "The Art of Writing Amazing API's"
+date: "2022-12-28"
 ---
 
 Writing good APIs (Application Programming Interfaces) is an art that requires a combination of technical expertise and understanding of how developers will use and interact with the API. A good API makes it easy for developers to access and use the functionality provided by the API, while a poorly designed API can be confusing and frustrating to work with.
