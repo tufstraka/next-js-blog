@@ -39,10 +39,6 @@ export default function Home({
             </li>
           ))}
         </ul>
-        <small className={utilStyles.headingMd}>
-          <p> <strong>My Github Commits</strong> </p>
-        </small>
-        <img src="http://ghchart.rshah.org/kadimakeith" alt="Kadima's Github chart" />
       </section>
     </Layout>
   )
